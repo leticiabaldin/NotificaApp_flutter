@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "157682757979",
+    "project_id": "notificaappflutter",
+    "storage_bucket": "notificaappflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157682757979:android:d24eb1d81218f261282a7e",
+        "android_client_info": {
+          "package_name": "com.example.notifica_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "157682757979-dq5b67s51q1n0q8jmnqsfis23j56tq49.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAK2N9SjUV35JW7X3uaaplhpnfUWfPclYw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "157682757979-dq5b67s51q1n0q8jmnqsfis23j56tq49.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "157682757979-vqu6nq0nqgqmshto6ka98ftapmm81c85.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.notificaApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
